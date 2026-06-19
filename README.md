@@ -21,6 +21,16 @@ This project analyzes a company's sales, expenses, and profit over a two-year pe
 - Matplotlib
 - Datetime
 
+## Running the Project
+
+Clone the repository and run:
+
+```bash
+python sales_expense_profit_graph.py
+```
+
+The program analyzes the dataset, calculates key financial metrics, and displays a financial summary along with the trend graph.
+
 ## Project Report
 
 A detailed explanation of the project, including the workflow, algorithm, system design, and sample output, is available in the pdf.
